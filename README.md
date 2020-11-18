@@ -6,7 +6,7 @@ Tensorflow implementation for this paper by [Xuanchi Ren*](https://xuanchiren.co
 
 \* indicates equal contribution
 
-The dataset and the code for training will be released.
+The dataset and the code for training will be released. A pytorch implementation will also be provided soon.
 
 
 ## Overview
@@ -22,7 +22,7 @@ Results on GoPro dataset:
 
 ## Testing
 
-## Meta-Learning
+## Meta-learning
 
 ## Dataset
 
