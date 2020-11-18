@@ -16,3 +16,18 @@ We present a novel approach to video deblurring by fitting a deep network to the
 
 Results on GoPro dataset:
 ![](imgs/synthetic.png)
+
+## Training
+
+
+## Testing
+If you use this code for your research, please cite our paper.
+
+```
+@InProceedings{ren_mm_dance,
+author = {Xuanchi Ren, Haoran Li, Zijian Huang, Qifeng Chen},
+title = {Self-supervised Dance Video Synthesis Conditioned on Music},
+booktitle = {ACM MM},
+year = {2020}
+}
+```
