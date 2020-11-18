@@ -4,7 +4,7 @@ Tensorflow implementation for this paper by [Xuanchi Ren*](https://xuanchiren.co
 
 * indicates equal contribution
 
-[Paper]()
+[Paper]() [Project Page](https://xuanchiren.com/pub/blur)
 
 The demo video is shown at: 
 
