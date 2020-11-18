@@ -2,7 +2,7 @@
 
 Tensorflow implementation for this paper by [Xuanchi Ren*](https://xuanchiren.com), Zian Qian*, [Qifeng Chen](https://cqf.io/)
 
-* indicates equal contribution
+\* indicates equal contribution
 
 [Paper]()  |  [Project Page](https://xuanchiren.com/pub/blur)
 
