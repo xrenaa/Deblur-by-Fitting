@@ -14,8 +14,5 @@ We present a novel approach to video deblurring by fitting a deep network to the
 
 ![](imgs/featured.png)
 
-Results on our real-world blurry dataset:
-![](imgs/real.png)
-
 Results on GoPro dataset:
 ![](imgs/synthetic.png)
