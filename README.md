@@ -1,6 +1,6 @@
 # Video Deblurring by Fitting to Test Data
 
-[Paper]()  |  [Project Page](https://xuanchiren.com/pub/blur) | [Video]()
+[Paper]() | [Project Page](https://xuanchiren.com/pub/blur) | [Video]() | [Supplement Material]()
 
 Tensorflow implementation for this paper by [Xuanchi Ren*](https://xuanchiren.com), Zian Qian*, [Qifeng Chen](https://cqf.io/)
 
@@ -21,13 +21,16 @@ Results on GoPro dataset:
 
 
 ## Testing
-If you use this code for your research, please cite our paper.
 
+## Dataset
+
+## Citation
+If you use this code for your research, please cite our paper.
 ```
-@InProceedings{ren_mm_dance,
-author = {Xuanchi Ren, Haoran Li, Zijian Huang, Qifeng Chen},
-title = {Self-supervised Dance Video Synthesis Conditioned on Music},
-booktitle = {ACM MM},
+@InProceedings{ren_deblur,
+author = {Xuanchi Ren, Zian Qian, Qifeng Chen},
+title = {Video Deblurring by Fitting to Test Data},
+booktitle = {},
 year = {2020}
 }
 ```
