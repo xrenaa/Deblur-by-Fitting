@@ -11,5 +11,9 @@ The demo video is shown at:
 The dataset and the code for training will be released.
 
 ![](imgs/featured.png)
+
+Results on our real-world blurry dataset:
 ![](imgs/real.png)
+
+Results on GoPro dataset:
 ![](imgs/synthetic.png)
