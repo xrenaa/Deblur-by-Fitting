@@ -1,6 +1,8 @@
 # Video Deblurring by Fitting to Test Data
 
-[Paper]() | [Dataset]() | [Project Page](https://xuanchiren.com/pub/blur) | [Video]() | [Supplement Material]()
+[Paper]() | [Dataset]() | [Supplement Material]()
+
+[Project Page](https://xuanchiren.com/pub/blur) | [Video](https://youtu.be/JRTFdKucBEg)
 
 Tensorflow implementation for this paper by [Xuanchi Ren*](https://xuanchiren.com), Zian Qian*, [Qifeng Chen](https://cqf.io/)
 
