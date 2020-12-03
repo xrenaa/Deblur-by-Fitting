@@ -19,6 +19,16 @@ We present a novel approach to video deblurring by fitting a deep network to the
 Results on GoPro dataset:
 ![](imgs/synthetic.png)
 
+## Requirement:
+Tensorflow 1.x
+
+## Set up:
+
+- `$ mkdir VGG_Model`
+- Download [VGG-19](http://www.vlfeat.org/matconvnet/pretrained/#downloading-the-pre-trained-models). Search `imagenet-vgg-verydeep-19` in this page and download `imagenet-vgg-verydeep-19.mat`. We need the pre-trained VGG-19 model for our hypercolumn input and feature loss
+- move the downloaded vgg model to folder `VGG_Model`
+
+
 ## Training
 
 
