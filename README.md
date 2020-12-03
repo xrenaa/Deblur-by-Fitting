@@ -30,9 +30,19 @@ Tensorflow 1.x
 
 
 ## Training
+1. Download the dataset and put it under ./dataset
 
+2. Run
+```python
+python train.py
+```
 
 ## Testing
+1. Run
+```python
+python test.py --output the_output_path
+```
+
 
 ## Meta-learning
 
