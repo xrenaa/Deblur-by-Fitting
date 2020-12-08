@@ -54,7 +54,7 @@ If you use this code for your research, please cite our paper.
 @InProceedings{ren_deblur,
 author = {Xuanchi Ren, Zian Qian, Qifeng Chen},
 title = {Video Deblurring by Fitting to Test Data},
-booktitle = {},
+booktitle = {arxiv},
 year = {2020}
 }
 ```
