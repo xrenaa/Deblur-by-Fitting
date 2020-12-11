@@ -1,6 +1,6 @@
 # Video Deblurring by Fitting to Test Data
 
-[Paper]() | [Dataset]() | [Supplement Material]()
+[Paper](https://arxiv.org/abs/2012.05228) | [Dataset]() | [Supplement Material](https://arxiv.org/abs/2012.05228)
 
 [Project Page](https://xuanchiren.com/pub/blur) | [Video](https://youtu.be/JRTFdKucBEg)
 
